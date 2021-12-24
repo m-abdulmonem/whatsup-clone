@@ -15,7 +15,13 @@ dependencies:
   cupertino_icons: ^1.0.4
   get: ^4.6.1
   get_storage: 2.0.3
-  sms_autofill: ^2.2.0
+  camera: ^0.9.4+5
+  path_provider: ^2.0.8
+  video_player: ^2.2.10
+#  gallery_saver: ^2.3.2
+
+  #  sms_autofill: ^2.2.0
+  social_media_recorder: ^0.1.31
 
 
 dev_dependencies:

@@ -12,10 +12,6 @@
         "source": "G:\\Flutter\\whats_app_clone\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "G:\\Flutter\\whats_app_clone\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
-        "source": "G:\\Flutter\\whats_app_clone\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
-    },
-    {
         "merged": "G:\\Flutter\\whats_app_clone\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "G:\\Flutter\\whats_app_clone\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },

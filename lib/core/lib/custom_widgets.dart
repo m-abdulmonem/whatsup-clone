@@ -14,6 +14,9 @@ import '../config/themes/themes.dart';
 import 'services/locale/locale_services.dart';
 
 class CustomWidgets {
+
+  static String cameraDeepArKey = '314e087d450341294ca851a48dc810bb9f89ad87c9dadb0bd2bbb162a8446e1ae966ebb26022474a';
+
   static bool get isRTL => LanguageService().isRTL;
 
   static void snackBar(content, duration) =>
@@ -41,6 +44,7 @@ class CustomWidgets {
 
   static Translation get translations => Translation();
   static Locale get locale => LanguageService().locale;
+
 
 
 }
